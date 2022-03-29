@@ -3,6 +3,7 @@ import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
 import { loadGLTFModel } from '../lib/model'
 import { ElephantSpinner, ElephantContainer } from './elephant-loader'
+import Elephant from '/elephant.glb'
 
 function easeOutCirc(x) {
   return Math.sqrt(1 - Math.pow(x - 1, 4))
@@ -77,7 +78,7 @@ const Elephant = () => {
       controls.target = target
       setControls(controls)
 
-      loadGLTFModel(scene, "/elephant.glb", {
+      loadGLTFModel(scene, {Elephant}, {
         receiveShadow: false,
         castShadow: false
       }).then(() => {
