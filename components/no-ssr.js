@@ -1,4 +1,4 @@
-import { defaultConfig } from "next/dist/server/config-shared";
+//import { defaultConfig } from "next/dist/server/config-shared";
 import dynamic from "next/dynamic";
 import React from "react";
 
