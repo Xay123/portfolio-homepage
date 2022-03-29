@@ -11,7 +11,7 @@ const Page = ( ) => {
         <Layout>
         <Container>
             <Box borderRadius="lg" p={3} mt={20} mb={6} align="center" bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}>
-               Hello, I&apos;m a high schooler in Granbury, TX.
+               Hello, I&#39;m a high schooler in Granbury, TX.
             </Box>
 
             <Box display={{md: 'flex'}}>
