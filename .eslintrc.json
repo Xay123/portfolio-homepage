@@ -6,9 +6,9 @@
             "error",
             {
                 "argsIgnorePattern": "^_",
-                "varsIgnorePattern": "^_",
-                "react/no-unescaped-entities": 0
+                "varsIgnorePattern": "^_"
             }
-        ]
+        ],
+        "react/no-unescaped-entities": 0
     }
 }
