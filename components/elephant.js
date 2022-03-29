@@ -3,7 +3,8 @@ import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
 import { loadGLTFModel } from '../lib/model'
 import { ElephantSpinner, ElephantContainer } from './elephant-loader'
-import ElephantGLB from '../public/elephant.glb'
+
+const ElephantGLB = '/elephant.glb'
 
 function easeOutCirc(x) {
   return Math.sqrt(1 - Math.pow(x - 1, 4))
