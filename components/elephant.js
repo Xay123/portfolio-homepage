@@ -77,7 +77,7 @@ const Elephant = () => {
       controls.target = target
       setControls(controls)
 
-      loadGLTFModel(scene, "/elephant.glb", {
+      loadGLTFModel(scene, "/Elephant.gltf", {
         receiveShadow: false,
         castShadow: false
       }).then(() => {
