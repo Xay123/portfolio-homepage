@@ -17,7 +17,7 @@ const Main = ({ children, router }) => {
         <meta name="description" content="Zachary's homepage" />
         <meta name="author" content="Zachary Layland" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-        <title>Zachary Layland - Homepage</title>
+        <title>Homepage - Zachary Layland</title>
       </Head>
 
       <NavBar path={router.asPath} />
