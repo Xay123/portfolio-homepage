@@ -13,6 +13,8 @@ const Works = () => {
                 Works
             </Heading>
 
+            <title> Works - Zachary Layland </title>
+
             <SimpleGrid columns={[1,1,2]} gap={6}>
                 <Section>
                     <WorkGridItem id="passwordManager" title="Password Manager" thumbnail={thumbPasswd}>
