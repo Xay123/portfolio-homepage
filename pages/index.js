@@ -64,7 +64,7 @@ const Page = ( ) => {
             </Heading>
             <Paragraph>
                 Music, {' '}
-                <Link href="https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/273921293_2712919815521326_6309231666273714239_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=gbyeAegyCMMAX__Xrsr&_nc_ht=scontent-dfw5-1.xx&oh=00_AT-yqsAOxKvyoKnYubyZ4wwWAtzG2jf_3virMQHSWfjOCQ&oe=6246D475">Robotics</Link>
+                <Link href="/images/robotics.jpg">Robotics</Link>
                 , and Machine Learning
             </Paragraph>
         </Section>
