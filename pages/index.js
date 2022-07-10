@@ -52,10 +52,6 @@ const Page = ( ) => {
                 <BioYear>2006</BioYear>
                 Born in Granbury, Texas.
             </BioSection>
-            <BioSection>
-                <BioYear>2024</BioYear>
-                Graduated Granbury High School and enrolled in the University of Texas at Austin.
-            </BioSection>
         </Section>
 
         <Section delay={0.3}>
