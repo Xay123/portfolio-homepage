@@ -33,7 +33,7 @@ const Page = ( ) => {
                 Work
             </Heading>
             <Paragraph>
-            I am a 16 year old and have made a password manager in python with an encrypted log in and a ranking system using Microsoft's TrueSkill with Robot Event's api to determine what robots in VRC were the best.
+            I am a 17 year old student enrolled at Granbury High School in Granbury, TX. I specialize in Python, however I have four years of experience with C# from robotics and Unity.
             </Paragraph>
             <Box align="center" my={4}>
                 <NextLink href="/works">
