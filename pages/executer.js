@@ -7,3 +7,5 @@ const Executer = () => (
         </Container>
     </Layout>
 )
+
+export default Executer
