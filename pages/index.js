@@ -33,7 +33,7 @@ const Page = ( ) => {
                 Work
             </Heading>
             <Paragraph>
-            I am a 17 year old student enrolled at Granbury High School in Granbury, TX. I specialize in Python, however I have four years of experience with C# from robotics and Unity.
+            My name is Zachary Layland, I am attending Tarleton in the class of 2027 pursuing a major in Computer Science with a concentration in Software Engineering and a minor in Physics.
             </Paragraph>
             <Box align="center" my={4}>
                 <NextLink href="/works">
@@ -51,6 +51,14 @@ const Page = ( ) => {
             <BioSection>
                 <BioYear>2006</BioYear>
                 Born in Granbury, Texas.
+            </BioSection>
+            <BioSection>
+                <BioYear>2024</BioYear>
+                Graduated Granbury High School in the top 2%.
+            </BioSection>
+            <BioSection>
+                <BioYear>2024</BioYear>
+                Enrolled in Tarleton State University as a Sophomore.
             </BioSection>
         </Section>
 
