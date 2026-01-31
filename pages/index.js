@@ -11,7 +11,7 @@ const Page = ( ) => {
         <Layout>
         <Container>
             <Box borderRadius="lg" p={3} mt={20} mb={6} align="center" bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}>
-               Hello, I&apos;m a high schooler in Granbury, TX.
+               Hello, I&apos;m an undergrad student at Tarleton State University.
             </Box>
 
             <Box display={{md: 'flex'}}>
@@ -33,7 +33,7 @@ const Page = ( ) => {
                 Work
             </Heading>
             <Paragraph>
-            My name is Zachary Layland, I am attending Tarleton in the class of 2027 pursuing a major in Computer Science with a concentration in Software Engineering and a minor in Physics.
+            My name is Zachary Layland, I am attending Tarleton State University in the class of 2027 pursuing a major in Computer Science with a concentration in Software Engineering and a major in Cybersecurity .
             </Paragraph>
             <Box align="center" my={4}>
                 <NextLink href="/works">
@@ -58,7 +58,7 @@ const Page = ( ) => {
             </BioSection>
             <BioSection>
                 <BioYear>2024</BioYear>
-                Enrolled in Tarleton State University as a Sophomore.
+                Enrolled in Tarleton State University.
             </BioSection>
         </Section>
 
